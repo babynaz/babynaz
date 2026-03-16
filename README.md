@@ -17,7 +17,7 @@ I am interested in **Database Architecture, Data Engineering, and Backend System
 * **Databases:** SQL (MySQL), NoSQL (Firebase Firestore, MongoDB), ER Diagramming, Normalization
 * **Languages:** Python, Java, SQL, C/C++, HTML/CSS, JavaScript, Assembly
 * **Tools:** GitHub, Figma (UX/UI), TensorFlow, PyTorch, IntelliJ, VS Code
-* **Multilingual:** Thai (Native), English (C2/Fluent), French (DELF B1), Chinese (HSK4), Burmese & Arabic (Communicatoin level).
+* **Multilingual:** Thai (Native), English (C2/Fluent), French (DELF B1), Chinese (HSK4), Burmese & Arabic (Communication level).
 
 ---
 
