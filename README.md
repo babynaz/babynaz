@@ -4,7 +4,7 @@
 📍 Nakhon Pathom, Thailand 
 
 ### 🏗️ Engineering Focus
-I am interested in **Database Architecture, Data Engineering, and Backend Systems** I enjoy the "blueprint" side of software—designing efficient relational schemas, normalizing data, and optimizing system flows.
+I am interested in **Database Architecture, Data Engineering, and Backend Systems**. I enjoy the "blueprint" side of software—designing efficient relational schemas, normalizing data, and optimizing system flows.
 
 ### 🎯 Interests & Strategic Focus
 * **Bridging the gap** between technical engineering and human behavior through my minors in **Psychology and Biological Sciences**
